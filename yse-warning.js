@@ -8,7 +8,7 @@ YSE = {
         'en': 'Tätä käsite-ehdotusta ei ole vielä hyväksytty YSAan eikä YSOon. Jos pidät käsitettä tarpeellisena tai haluat kommentoida sen sisältöä, kerro asiasta käsite-ehdotuksen kotisivulla (ks. linkki alla).'
     },
     renderWarning: function(params) {
-        $('.content').prepend(Handlebars.compile($('#ysewarning-template').html())({'warning-text': this.strings[lang]}));
+        $('.content').prepend(Handlebars.compile($('#yse-template').html())({'warning-text': this.strings[lang]}));
     },
 };
 
