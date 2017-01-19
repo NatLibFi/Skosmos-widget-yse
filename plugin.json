@@ -1,5 +1,5 @@
 {
-    "js": ["yse-warning.js"],
+    "js": ["yse-plugin.js"],
     "callback": ["yseWarning"],
     "templates": ["template.html", "feedback.html"]
 }
