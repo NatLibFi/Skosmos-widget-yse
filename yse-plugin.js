@@ -8,9 +8,9 @@ YSE = {
       'en': 'NB:'
     },
     feedback: {
-        'fi': 'Ehdotukset uusiksi YSA- ja YSO-käsitteiksi <a href="http://ehdotus.finto.fi/">ehdotusjärjestelmän</a> kautta.',
-        'sv': 'Förslag till nya Allärs- och ALLFO-begrepp ges via <a href="http://ehdotus.finto.fi/">förslagssystemet</a>.',
-        'en': 'For suggesting new concepts, please use the <a href="http://ehdotus.finto.fi/">online suggestion form</a>.'
+        'fi': 'Voit ehdottaa uusia käsitteitä YSOn etusivun alalaidasta löytyvällä lomakkeella. Jos haluat ehdottaa muutosta YSOn käsitteeseen, muutosehdotuslomake löytyy YSO-käsitteiden tietojen yhteydestä.',
+        'sv': 'Du kan föreslå nya begrepp till ALLFO med förslagsblanketten längst ner på ALLFO:s förstasida. Du kan också föreslå ändringar till ALLFO-begrepp via den ändringsblankett som finns på varje ALLFO-begreppssida.',
+        'en': ''
     },
     warning: {
         'fi': 'Tätä käsite-ehdotusta ei ole vielä hyväksytty YSAan eikä YSOon. Jos pidät käsitettä tarpeellisena tai haluat kommentoida sen sisältöä, kerro asiasta käsite-ehdotuksen kotisivulla (ks. linkki alla).',
